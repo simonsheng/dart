@@ -29,3 +29,9 @@
     * AOT - Ahead Of Time Compiler -- Production Phase
     * dartdevc - Dart Development Compiler
     * dart2js - Dart to JavaScript 
+2. Installing The Dart SDK
+3. First Dart Project
+
+> dart create project_name
+
+/
