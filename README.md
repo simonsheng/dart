@@ -24,7 +24,7 @@
   
   > dart compile
   
-  /
+\
     * JIT - Just In Time Compiler -- Development Phase
     * AOT - Ahead Of Time Compiler -- Production Phase
     * dartdevc - Dart Development Compiler
@@ -34,4 +34,4 @@
 
 > dart create project_name
 
-
+\
