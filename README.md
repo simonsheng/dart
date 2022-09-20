@@ -5,10 +5,11 @@
 0. introduction. 
 1. dart language overview. 
   * What is Dart? 
-    * Precision
-    * Speed
-    * Tough
-    * Modifiable 
+    * Precision. 
+    * Speed. 
+    * Tough. 
+    * Modifiable. 
+    * Popular Framework. 
   * Type safety. 
   * Soundness. 
   * Type inference. 
