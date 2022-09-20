@@ -21,15 +21,13 @@
     * Varables CAN"T CONTAIN NULL, unless YOU SAY THEY CAN. 
     * Static & Runtime Checks 
   * dart Compilers -- Develoopment Phase vs Production Phase. 
-  
-  > dart compile
-  
-\
-
     * JIT - Just In Time Compiler -- Development Phase
     * AOT - Ahead Of Time Compiler -- Production Phase
     * dartdevc - Dart Development Compiler
     * dart2js - Dart to JavaScript 
+> dart compile
+
+
 2. Installing The Dart SDK
 3. First Dart Project
 
