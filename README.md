@@ -11,6 +11,8 @@
     * Modifiable. 
     * Popular Framework. 
   * Type safety. 
+    * Static Type Check. 
+    * Runtime Check  
   * Soundness. 
   * Type inference. 
   * Null safety. 
