@@ -36,6 +36,7 @@
 \
 F5 run a dart file without main will make VSCODE generate a launch.json file
 
+> dart pub global activate devtools
 > dart run --observe --pause-isolates-on-start
 
 \
