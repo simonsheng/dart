@@ -11,9 +11,21 @@
     * Modifiable. 
     * Popular Framework. 
   * Type safety. 
-    * Static Type Check. 
-    * Runtime Check  
+    * Static Type Check -- "Local" Check. 
+    * Runtime Check -- "Additional" Check. 
   * Soundness. 
+    * "Local" Check vs "Additional" Check. 
   * Type inference. 
+    * dynamic vs var. 
   * Null safety. 
-  * dart Compilers. 
+    * Varables CAN"T CONTAIN NULL, unless YOU SAY THEY CAN. 
+    * Static & Runtime Checks 
+  * dart Compilers -- Develoopment Phase vs Production Phase. 
+  
+  > dart compile
+  
+  /
+    * JIT - Just In Time Compiler -- Development Phase
+    * AOT - Ahead Of Time Compiler -- Production Phase
+    * dartdevc - Dart Development Compiler
+    * dart2js - Dart to JavaScript 
