@@ -41,4 +41,8 @@ F5 run a dart file without main will make VSCODE generate a launch.json file
 
 \
 4. Dart Core Components
+\
+9/20/2022. 
+\
+Dart Operator Overloading
 
